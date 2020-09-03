@@ -2,7 +2,7 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently coursing Computer Engineering on Senai Cimatec[website]!
+- 🔭 I’m currently coursing Computer Engineering on [Senai Cimatec][website]!
 - 🌱 I’m currently learning a lot of stuffs on JS World 🤣
   <!-- - 👯 I’m looking to collaborate with other content creators -->
   <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
@@ -35,6 +35,6 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
 
 [webdevplaylist]: https://github.com/JanderSilv
-[website]: https://codeSTACKr.com
+[website]: http://www.senaicimatec.com.br/
 [instagram]: https://www.instagram.com/jander_silv/
 [linkedin]: https://www.linkedin.com/in/jander-silva-267909184/
