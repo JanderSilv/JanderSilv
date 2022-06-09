@@ -22,7 +22,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages:
 
 <div>
   <a href="https://github.com/JanderSilv">
@@ -42,7 +42,9 @@
   </a>
 </div>
 
-### Frameworks and Libraries
+<br />
+
+### Frameworks and Libraries:
 
 <div>
   <a href="https://pt-br.reactjs.org/">
@@ -59,7 +61,9 @@
   </a>
 </div>
 
-### Tools
+<br />
+
+### 🔧 Tools:
 <div>
   <a href="https://git-scm.com/">
     <img align="left" alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
