@@ -24,7 +24,7 @@
 
 ### Languages and Tools:
 
-<div style="display: flex; align-items: center; flex-wrap: wrap">
+<div style="display: flex; align-items: center; flex-wrap: wrap; gap: 2rem 0">
 <a href=https://pt-br.reactjs.org/" target="_blank" rel="noreferrer noopener">
 <img align="left" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
