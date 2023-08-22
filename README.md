@@ -9,18 +9,11 @@
 
 ## I'm a Student and Developer!
 
-- 🔭 I’m currently coursing Computer Engineering on [Senai Cimatec][website]!
-- 🌱 I’m currently learning a lot of stuffs on JS' World 🤣
+- 🔭 I’m B.S.E in Computer Engineering by [Senai Cimatec][website]!
+- 🌱 I’m currently learning a lot of stuffs on JavaScript's World
   <!-- - 👯 I’m looking to collaborate with other content creators -->
   <!-- - 🥅 2020 Goals: Contribute more to Open Source projects -->
-- ⚡ Fun fact: I love to photograph landscapes, flowers and animals on my trips.
-
-### Connect with me:
-
-[<img align="left" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[<img align="left" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-
-<br />
+- 📸 Fun fact: I love to photograph landscapes, flowers and animals on my trips.
 
 ### Languages:
 
